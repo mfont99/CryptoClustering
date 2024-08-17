@@ -1,2 +1,4 @@
 # CryptoClustering
 Module 19 challenge assignment
+
+In general, this assignment was much easier than the last one. The actual machine learning part was easily accomplished by referring to the in-class exercises. The hardest part for me was actually plotting everything, especially the composite plot at the end. For all the plotting, I used mainly the official documentation on hvplot as well as the Xpert Learning Assistant for debugging and optimization purposes. But other than that, most of the stuff was either pretty straightforward to do with the in-class activities as a reference, or simply stuff I'd seen before in other assignments.
